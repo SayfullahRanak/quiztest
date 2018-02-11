@@ -1,0 +1,54 @@
+ques: Who is making the Web standards?
+option1: The World Wide Web Consortium
+option2: Google
+option3: Mozilla
+option4: Microsoft
+correct ans: The World Wide Web Consortium
+ques: Choose the correct HTML tag for the largest heading
+option1: <h6>
+option2: <head>
+option3: <heading>
+option4: <h1>
+correct ans: <h1>
+ques: What is the correct HTML tag for inserting a line break?
+option1: <lb>
+option2: <br>
+option3: <break>
+option4: <br />
+correct ans: <br />
+ques: Choose the correct HTML tag to make a text bold
+option1: <b>
+option2: <bold>
+option3: <bolt>
+option4: <b />
+correct ans: <b>
+ques: What is the correct HTML for creating a hyperlink?
+option1: <a url="http://www.w3schools.com">W3Schools.com</a>
+option2: <a>http://www.w3schools.com</a>
+option3: <a href="http://www.w3schools.com">W3Schools</a>
+option4: <a name="http://www.w3schools.com">W3Schools.com</a>
+correct ans: <a href="http://www.w3schools.com">W3Schools</a>
+ques: How can you open a link in a new tab/browser window?
+option1: <a href="url" target="new">
+option2: <a href="url" new>
+option3: <a href="url" target="_blank">
+option4: <a href="new">
+correct ans: <a href="url" target="_blank">
+ques: Which of these tags are all <table> tags?
+option1: <thead><body><tr>
+option2: <table><tr><td>
+option3: <table><head><tfoot>
+option4: <table><tr><tt>
+correct ans: <table><tr><td>
+ques: How can you make a numbered list?
+option1: <ul>
+option2: <dl>
+option3: <list>
+option4: <ol>
+correct ans: <ol>
+ques: What is the correct HTML for making a checkbox?
+option1: <input type="checkbox">
+option2: <input type="check">
+option3: <checkbox>
+option4: <check>
+correct ans :<input type="checkbox">
